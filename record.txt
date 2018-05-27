@@ -1,0 +1,10 @@
+kominek|15-6|
+listwy|20-6|
+shopping|22-4|important
+kominek|7-5|important
+stare|20-5|important
+panele|21-5|important
+as|25-5|important
+samochód|30-5|important
+
+assigment|24-5|
